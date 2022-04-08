@@ -25,12 +25,12 @@
 
 * [Certamen 1](resumenes/certamen-1.md)
 
+## Clases pasadas
+
+* [2021-2](clases-pasadas/2021-2.md)
+
 ## Otros
 
 * [Sears + solucionario](otros/sears-+-solucionario.md)
 * [Ejercicios resueltos](otros/ejercicios-resueltos.md)
 * [Apuntes SG](otros/apuntes-sg.md)
-
-## Clases pasadas
-
-* [2021-2](clases-pasadas/2021-2.md)
