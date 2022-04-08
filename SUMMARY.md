@@ -21,9 +21,9 @@
 * [2022-1](ayudantias-primera-unidad/2022-1.md)
 * [Ayudantias pasadas](ayudantias-primera-unidad/ayudantias-pasadas.md)
 
-## Resumenes
+## Formularios
 
-* [Certamen 1](resumenes/certamen-1.md)
+* [Certamen 1](formularios/certamen-1.md)
 
 ## Clases pasadas
 
