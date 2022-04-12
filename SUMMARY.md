@@ -16,6 +16,10 @@
 * [Clase 7](primera-unidad/clase-7.md)
 * [Clase 8](primera-unidad/clase-8.md)
 
+## Segunda unidad
+
+* [Clase 9](segunda-unidad/clase-9.md)
+
 ## Ayudantias primera unidad
 
 * [2022-1](ayudantias-primera-unidad/2022-1.md)
