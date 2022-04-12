@@ -4,7 +4,7 @@
 
 {% file src="../.gitbook/assets/FISICA_UNIVERSITARIA_VOL_2_SEARS_Y_ZEMAN.pdf" %}
 
-### 15th edition (ya dejo de llamarse sears a partir de esta, agrega nuevos ejercicios de mayor dificultad y mejor explicaciones)
+### 15th edition (dejó de llamarse sears a partir de esta, agrega nuevos ejercicios de mayor dificultad y mejores explicaciones)
 
 {% file src="../.gitbook/assets/Hugh D. Young, Roger A. Freedman - University Physics With Modern Physics 15th Edition Instructor's Solution Manual and Discussion Questions-Pearson (2020).pdf" %}
 
