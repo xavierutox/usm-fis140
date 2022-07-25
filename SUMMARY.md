@@ -28,6 +28,7 @@
 
 * [Cuerpo negro](unidad-4/cuerpo-negro.md)
 * [Efecto fotoelectrico](unidad-4/efecto-fotoelectrico.md)
+* [Modelos atomicos](unidad-4/modelos-atomicos.md)
 
 ## Ayudantias primera unidad
 
