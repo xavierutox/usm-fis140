@@ -21,6 +21,7 @@
 * [Clase 9](<primera-unidad/clase-5 (1).md>)
 * [Clase 10](segunda-unidad/clase-10.md)
 * [Clase 11](segunda-unidad/clase-11.md)
+* [Clase 12](segunda-unidad/clase-12.md)
 
 ## Ayudantias primera unidad
 
